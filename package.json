@@ -18,7 +18,7 @@
     "@sindresorhus/slugify": "^2.2.1",
     "@tailwindcss/typography": "^0.5.10",
     "@toycode/markdown-it-class": "1.2.4",
-    "algoliasearch": "^4.17.2",
+    "algoliasearch": "^5.0.0",
     "animate-sass": "github:christopherpickering/animate-sass#patch-2",
     "autoprefixer": "10.4.20",
     "axios": "^1.5.0",
